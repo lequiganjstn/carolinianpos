@@ -1,6 +1,6 @@
 # CarolinianPOS
 
-Web-based POS system for University of San Carlos campus outlets as an academic web development project.
+Web-based POS system for University of San Carlos as an academic project during Web Development 1.
 
 ## Stack
 - HTML/CSS/JavaScript
